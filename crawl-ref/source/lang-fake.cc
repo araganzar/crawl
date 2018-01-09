@@ -288,7 +288,7 @@ static const char* crab[][4] =
     {"bardiche","fukken big claw"},
     {"scarab","scare-crab"},
     {"spark wasp","zappy crab"},
-    {"melial",""},
+    {"melial","axe shrimp"},
     {"^bee$","brine shrimp"},
     {"mosquito","leech"},
     {"giant leech","remorah"},
